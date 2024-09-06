@@ -4,12 +4,12 @@
 #include "Timer1.h"
 
 //defines
-#define TEXTLAENGE 66
+#define TEXTLAENGE 67
 
 //Deklaration von Variablen
 unsigned char ucNamenZaehler = 0;
 unsigned char ucDankeZaehler = 0;
-unsigned char ucNamen[66] = "Anastasia, Ariana, Daniel, Eva, Ferdinand, Hannah, Irem, Johannes, ";
+unsigned char ucNamen[67] = "Anastasia, Ariana, Daniel, Eva, Ferdinand, Hannah, Irem, Johannes, ";
 unsigned char ucSIA[16] = " SIA 2023/2024  ";
 unsigned char ucDanke[16] = "  Vielen Dank!  ";
 
